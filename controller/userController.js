@@ -6,7 +6,7 @@ const { response } = require("express");
 const { Schema } = require("mongoose");
 
 module.exports = {
-  /*. 1. Create an ApI for SignUp */
+  /*. 1. Create an ApI for SignUp  */
   signUp: async (req, res) => {
     try {
       // Existing User Check
