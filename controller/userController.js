@@ -52,7 +52,7 @@ module.exports = {
     }
   },
 
-  /*. 1. Create an ApI for Login */
+  /*. 1. Create an ApI for Login_ */
   login: async (req, res) => {
     try {
       let query = {
